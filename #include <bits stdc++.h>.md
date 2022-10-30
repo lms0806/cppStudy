@@ -1,4 +1,4 @@
-# #include <bitsstdc++.h>
+# #include <bits/stdc++.h>
 
 ### 장점
  - Pre-compiled header의 일종으로, 사람들이 많이 사용하는 표준 라이브러리 헤더들을 모두 한번에 Compile 될 수 있도록 해둠
